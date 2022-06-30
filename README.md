@@ -8,6 +8,6 @@
 |:--------------------------------------|:--------------------------------------------------------------|:------------------------------------------------|
 |[Построение аналитических процессов](https://github.com/adagudeda/analyst_simulator)|Цель проекта - с нуля выстроить аналитические процессы в молодом стартапе. Построил поверхностную аналитику с помощью дашбордов, настроил автоматическую отправку отчетов в телеграм, разработал систему алертов, детектирующую аномалии, построил ETL-пайплайн на Airflow для расчета необходимых метрик|Python (pandas, pandahouse, numpy, matplotlib, seaborn, telegram), ClickHouse, GitLab CI/CD, Superset|
 |[Анализ дейтинг-приложения](https://github.com/adagudeda/dating_project)|Цель проекта - анализ изменения стоимости подписки в целом и на конкретных группах пользователей|pandas, numpy, scipy, pinhouin, matplotlib, seaborn, requests|
-|[Анализ введения новый механики оплаты](https://github.com/adagudeda/final_project)|Цель проекта - анализ успешности внедрения новой механики оплаты на сайте|pandas, numpy, scipy, pinhouin, matplotlib, seaborn, requests|
+|[Анализ введения новой механики оплаты](https://github.com/adagudeda/final_project)|Цель проекта - анализ успешности внедрения новой механики оплаты на сайте|pandas, numpy, scipy, pinhouin, matplotlib, seaborn, requests|
 |[Sql-Ex.ru](https://github.com/adagudeda/sql-ex)|Решение заданий с сайта sql-ex.ru|SQL|
 
